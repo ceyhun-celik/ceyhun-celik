@@ -17,9 +17,9 @@
 
 ### 📊 GitHub Analytics
 
-<a href="https://github.com/mukireus">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mukireus&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukireus&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<a href="https://github.com/ceyhun-celik">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhun-celik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ceyhun-celik"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceyhun-celik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ceyhun-celik"/>
 </a>
 
 <br />
