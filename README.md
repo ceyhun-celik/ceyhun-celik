@@ -31,10 +31,8 @@
 
 ### 📲 Connect with me:
 
-[<img align="left" alt="ceyhun-celik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ceyhun-celik | LinkedIn" height="25px" src="https://raw.githubusercontent.com/ryihan/ryihan-material/main/Icon/linkedin.svg" />][linkedin]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/ceyhun-celik/
-
-[<img align="left" alt="ceyhun-celik | LinkedIn" height="22px" src="https://raw.githubusercontent.com/ryihan/ryihan-material/main/Icon/linkedin.svg" />][linkedin]
