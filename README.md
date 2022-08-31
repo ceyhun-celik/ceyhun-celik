@@ -17,6 +17,10 @@
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ceyhun-celik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
 <a href="https://github.com/ceyhun-celik">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhun-celik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ceyhun-celik"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceyhun-celik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ceyhun-celik"/>
