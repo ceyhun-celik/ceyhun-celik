@@ -36,3 +36,5 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/ceyhun-celik/
+
+[<img align="left" alt="ceyhun-celik | LinkedIn" width="22px" src="https://raw.githubusercontent.com/ryihan/ryihan-material/main/Icon/linkedin.svg" />][linkedin]
